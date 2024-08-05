@@ -25,7 +25,7 @@ class citizen
       }
       else
       {
-       System.out.println("not senior citizen");
+       System.out.println("not  a senior citizen");
       }
   }
 }
